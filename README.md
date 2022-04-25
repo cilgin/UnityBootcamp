@@ -52,9 +52,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-	![Backlog 1](link) 
-	![Backlog 2](link) 
-	![Backlog 3](link)
+	![Backlog 0 - Initial Planning](https://github.com/cilgin/UnityBootcamp/blob/8c183784d727f9e359d4089d6597905b0297ee02/ProjectManagement/Sprint1Documents/backlog0.jpg) 
+	![Backlog 1 - Sprint 1 Details](link) 
 
 - **Oyun Durumu**: Ekran görüntüleri:
   ![Screenshot 1](link)
