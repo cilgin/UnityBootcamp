@@ -17,7 +17,7 @@
 ## Oyun Açıklaması
 
 	- Unity 3D ile geliştirilen hikaye odaklı ve sinematik bir mini oyun. 
-	- Oyunun hikaye evrenine giriş niteliğinde olmasını ve ileride bir uzun metraj film gibi geliştirilip büyümesini düşünüyoruz.
+	- Oyunun hikaye evrenine giriş niteliğinde olmasını, ileride daha da geliştirilip büyümesini düşünüyoruz.
 
 ## Oyun Özellikleri
 
