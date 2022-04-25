@@ -49,18 +49,21 @@
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak biriktirilip bu dosyada paylaşılmaktadır: 
+	- ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-	Backlog 0 - Initial Planning Stage ![Backlog 0 - Initial Planning](https://github.com/cilgin/UnityBootcamp/blob/8c183784d727f9e359d4089d6597905b0297ee02/ProjectManagement/Sprint1Documents/backlog0.jpg) 
-	![Backlog 1 - Sprint 1 Details](link) 
+	- Backlog 0 - Initial Planning Stage ![Backlog 0 - Initial Planning](https://github.com/cilgin/UnityBootcamp/blob/8c183784d727f9e359d4089d6597905b0297ee02/ProjectManagement/Sprint1Documents/backlog0.jpg) 
+	- Backlog 1 - Sprint 1 Details ![Backlog 1 - Sprint 1 Details](link) 
 
 - **Oyun Durumu**: Ekran görüntüleri:
   ![Screenshot 1](link)
   ![Screenshot 2](link)
 
 - **Sprint Review**: 
-	Alınan kararlar: x
+	- Alınan kararlar: 
+		- x
+		- x
 
 - **Sprint Retrospective:**
   - x
