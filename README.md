@@ -16,7 +16,8 @@
 
 ## Oyun Açıklaması
 
-	- Unity 3D ile geliştirilen hikaye odaklı ve sinematik bir mini oyun. Oyunun hikaye evrenine giriş niteliğinde olmasını ve ileride bir uzun metraj film gibi geliştirilip büyümesini düşünüyoruz.
+	- Unity 3D ile geliştirilen hikaye odaklı ve sinematik bir mini oyun. 
+	- Oyunun hikaye evrenine giriş niteliğinde olmasını ve ileride bir uzun metraj film gibi geliştirilip büyümesini düşünüyoruz.
 
 ## Oyun Özellikleri
 
@@ -38,17 +39,17 @@
 
 # Sprint 1
 
-	- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-	- **Sprint içinde tamamlanması tahmin edilen puan**: x Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: x Puan
 
-	- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken x puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından x ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken x puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından x ile başlaması gerektiğine karar verildi.
 
-	- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-	Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-	- **Daily Scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 	![Backlog 1](link) 
