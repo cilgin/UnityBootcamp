@@ -6,7 +6,7 @@
 
 ## Takım Elemanları
 
-	- Product Owner: x
+	- Product Owner: İbrahim Ünal Doğan (github@ibrhmdgn)
 	- Scrum Master: Pelin Çılgın (github@cilgin)
 	- Developer: Çilem Kırmızıgül
 
