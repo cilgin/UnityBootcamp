@@ -8,7 +8,7 @@
 
 	- Product Owner: x
 	- Scrum Master: Pelin Çılgın (github@cilgin)
-	- Developer: x
+	- Developer: Çilem Kırmızıgül
 
 ## Oyun İsmi
 
