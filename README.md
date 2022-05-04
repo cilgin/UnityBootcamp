@@ -10,7 +10,7 @@
 	- Scrum Master: Pelin Çılgın (github@cilgin)
 	- Developer: Çilem Kırmızıgül
 	- Developer: Cihat Bakır(github@Cihat Bakır)
-	- Developer Berkay Seyhun (github@BerkaySeyhun)
+	- Developer: Berkay Seyhun (github@BerkaySeyhun)
 ## Oyun İsmi
 
 	(Karar verilecek)
