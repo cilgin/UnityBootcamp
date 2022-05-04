@@ -9,6 +9,7 @@
 	- Product Owner: İbrahim Ünal Doğan (github@ibrhmdgn)
 	- Scrum Master: Pelin Çılgın (github@cilgin)
 	- Developer: Çilem Kırmızıgül
+	- Developer: Cihat Bakır(github@Cihat Bakır)
 
 ## Oyun İsmi
 
