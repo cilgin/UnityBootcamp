@@ -1,36 +1,35 @@
 # **Takım İsmi**
 
-	Unity Altıncı Takım
+- Unity Altıncı Takım
+
+## Takım Üyeleri
+
+- Product Owner: İbrahim Ünal Doğan
+- Scrum Master & Designer: Pelin Çılgın
+- Developers: Çilem Kırmızıgül, Cihat Bakır, Berkay Seyhun
+
+---
 
 # Oyun İle İlgili Bilgiler
 
-## Takım Elemanları
-
-	- Product Owner: İbrahim Ünal Doğan (github@ibrhmdgn)
-	- Scrum Master: Pelin Çılgın (github@cilgin)
-	- Developer: Çilem Kırmızıgül
-	- Developer: Cihat Bakır(github@Cihat Bakır)
-	- Developer: Berkay Seyhun (github@BerkaySeyhun)
 ## Oyun İsmi
 
-	(Karar verilecek)
+- Highway of Souls
 
 ## Oyun Açıklaması
 
-	- Unity 3D ile geliştirilen hikaye odaklı ve sinematik bir mini oyun. 
-	- Oyunun hikaye evrenine giriş niteliğinde olmasını, ileride daha da geliştirilip büyümesini düşünüyoruz.
+- Unity 3D ile geliştirilen hikaye odaklı ve sinematik bir mini oyun. 
+- Oyunun hikaye evrenine giriş niteliğinde olmasını, ileride daha da geliştirilip büyümesini düşünüyoruz.
 
-## Oyun Özellikleri
+## Oyun Özellikleri ve Kısa Sinopsis
 
-	- Hikaye ve karakter odaklı.
-	- Üç boyutlu.
-	- x
+- Hikaye ve karakter odaklı. Üç boyutlu ve atmosferik.
+- Mesleği ölmüş ruhları arabasıyla öbür dünyaya taşıyan ve yolda mola olarak onların sevdikleri bir anı tekrar yaşamasını sağlayacak mekanlara götüren bir şoför. Bu sefer gelen ruhun son anısında bır tuhaflık olduğunu fark eden şoför, olayı araştırmaya başlar ve olaylar gelişir.
 
 ## Hedef Kitle
 
-	- x
-	- x
-	- x
+- 15 yaş ve üzeri genel oyuncu kitlesi.
+- Roman, sinema gibi sanat formlarına alışkın ve hikaye odaklı bir deneyim arayan kullanıcılar.
 
 ## Product Backlog URL
 
@@ -42,31 +41,31 @@
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: x Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken x puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından x ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken sarı item'lar yapılacak işleri (task) gösterirken, yeşil item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak biriktirilip bu dosyada paylaşılmaktadır: 
+- **Daily scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak biriktirilip bu dosyada paylaşılmaktadır: 
 	- ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 	- Backlog 0 - Initial Planning Stage ![Backlog 0 - Initial Planning](https://github.com/cilgin/UnityBootcamp/blob/8c183784d727f9e359d4089d6597905b0297ee02/ProjectManagement/Sprint1Documents/backlog0.jpg) 
 	- Backlog 1 - Sprint 1 Details ![Backlog 1 - Sprint 1 Details](link) 
 
-- **Oyun Durumu**: Ekran görüntüleri:
+- **Oyun durumu**: İlk sprint boyunca hikaye ve karakter üzerine yoğunlaşılarak pre-prodüksiyon aşamasına ağırlık verildi. Oyun kodları henüz yeterli olmadığı için ilk sprint özelinde, bulunan asset dosyalar kullanılarak, oyun için konsept görseller hazırlamaya karar verildi.
   ![Screenshot 1](link)
   ![Screenshot 2](link)
 
-- **Sprint Review**: 
+- **Sprint review**: 
 	- Alınan kararlar: 
 		- x
 		- x
 
-- **Sprint Retrospective:**
+- **Sprint retrospective:**
   - x
   - x
   - x 
