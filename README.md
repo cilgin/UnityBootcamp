@@ -49,7 +49,7 @@
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken sarı item'lar yapılacak işleri (task) gösterirken, yeşil item'lar story'leri temsil etmektedir.
 
-- **Daily scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak biriktirilip bu dosyada paylaşılmaktadır: 
+- **Daily scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum özetleri word olarak biriktirilip bu dosyada paylaşılmaktadır: 
 	- ![Sprint 1 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/6e6edf016c66643fc542c90ad44cdc958086329a/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
