@@ -6,7 +6,7 @@
 
 - İbrahim Ünal Doğan: Product Owner & Developer
 - Pelin Çılgın: Scrum Master & Designer
-- Çilem Kırmızıgül: Developer & Desıgner 
+- Çilem Kırmızıgül: Developer & Designer 
 - Cihat Bakır: Developer
 - Berkay Seyhun: Developer
 
@@ -91,7 +91,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken sarı item'lar yapılacak işleri (task) gösterirken, yeşil item'lar story'leri temsil etmektedir.
 
 - **Daily scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum özetleri word olarak biriktirilip bu dosyada paylaşılmaktadır: 
-	- ![Sprint 2 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/e3517bfece3dadacf200949ba39ceac6dde49be8/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint2.docx)
+	- ![Sprint 2 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/d38fc42c166d542bc16b4dc9ce8f562b3f55d122/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 	- Backlog 2 - Sprint 2 Details ![Backlog 2 - Sprint 2 Details](link) 
