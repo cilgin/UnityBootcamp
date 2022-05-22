@@ -113,7 +113,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   - Ekip üyeleri arasında iletişim arttı. Bu durum, süreç boyunca yaşanan aksamalara karşı bir motivasyon kaynağı oldu.
 
 -**Diğer Notlar**:
-  - İkinci sprint için atanan story puanları, retrospektif notları içinde belirtilmiş sebepler doğrultusunda üçüncü sprinte aktarıldı.
+  - İkinci sprint için atanan story puanları, retrospektif notları içinde belirtilmiş sebepler doğrultusunda üçüncü sprinte aktarıldı. 
 
 ---
 
