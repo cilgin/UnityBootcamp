@@ -74,7 +74,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   - Ekip üyeleri grup mesajlarını takip etme konusunda daha aktif olacak.
 
 -**Diğer Notlar**:
-	- N/A
+  - N/A
 
 ---
 
@@ -96,7 +96,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 	- Backlog 2 - Sprint 2 Details ![Backlog 2 - Sprint 2 Details](https://github.com/cilgin/UnityBootcamp/blob/dba52b3399bb2ccf8a4a19e22d68497ad9cbb6d7/ProjectManagement/Sprint2Documents/backlog2.jpg) 
 
-- **Oyun durumu**: x
+- **Oyun durumu**: 
   ![Screenshot 1](https://github.com/cilgin/UnityBootcamp/blob/dba52b3399bb2ccf8a4a19e22d68497ad9cbb6d7/ProjectManagement/Sprint2Documents/ss1.jpg)
   ![Screenshot 2](https://github.com/cilgin/UnityBootcamp/blob/dba52b3399bb2ccf8a4a19e22d68497ad9cbb6d7/ProjectManagement/Sprint2Documents/ss2.jpg)
   ![Screenshot 2](https://github.com/cilgin/UnityBootcamp/blob/dba52b3399bb2ccf8a4a19e22d68497ad9cbb6d7/ProjectManagement/Sprint2Documents/ss3.jpg)
@@ -113,7 +113,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   - Ekip üyeleri arasında iletişim arttı. Bu durum, süreç boyunca yaşanan aksamalara karşı bir motivasyon kaynağı oldu.
 
 -**Diğer Notlar**:
-	- İkinci sprint için atanan story puanları, retrospektif notları içinde belirtilmiş sebepler doğrultusunda üçüncü sprinte aktarıldı.
+  - İkinci sprint için atanan story puanları, retrospektif notları içinde belirtilmiş sebepler doğrultusunda üçüncü sprinte aktarıldı.
 
 ---
 
@@ -137,7 +137,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 	- Backlog 4 - Final Details ![Backlog 4 - Final Details](link) 
 
 
-- **Oyun durumu**: x
+- **Oyun durumu**: 
   ![Screenshot 1](link)
   ![Screenshot 2](link)
 
@@ -152,6 +152,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   - x 
 
 -**Diğer Notlar**:
-	- N/A
+  - N/A
 
 ---
