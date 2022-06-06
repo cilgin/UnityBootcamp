@@ -130,7 +130,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken sarı item'lar yapılacak işleri (task) gösterirken, yeşil item'lar story'leri temsil etmektedir.
 
 - **Daily scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum özetleri word olarak biriktirilip bu dosyada paylaşılmaktadır: 
-	- ![Sprint 3 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/dba52b3399bb2ccf8a4a19e22d68497ad9cbb6d7/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
+	- ![Sprint 3 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/089358a7f3daf450e5eabbefe8a130f0796164bc/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 	- Backlog 3 - Sprint 3 Details ![Backlog 3 - Sprint 3 Details](link) 
@@ -143,13 +143,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint review**: 
 	- Alınan kararlar: 
-		- x
-		- x
+		- Gelecekteki bir projede takım üyelerinin yetenek ve bilgisi daha iyi analiz edilecek ve daha tutarlı bir görev dağılımı sağlanılacak.
+		- Gelecekteki bir projede takım üyeleri şahsi değerlendirmelerini kendi okul/iş yoğunluğu çerçevesinde daha gerçekçi yapıp yönlendirecek. 
 
 - **Sprint retrospective:**
-  - x
-  - x
-  - x 
+  - Ekip olarak ilk defa hikaye odaklı bir oyun yapmayı denedik ve deneyimsizlik sebebiyle oldukça zorlandık. Fakat bunun bizim için oldukça öğretici bir deneyim olduğunu düşünüyoruz.
+  - Telifsiz içeriklerin kullanımın aslında o kadar da kolay olmadığını ve farklı kaynaklardan edinilen içerikler arasında görsel uyum sağlamanın düşündüğümüzden daha zor olduğunu öğrendik.
 
 -**Diğer Notlar**:
   - N/A
