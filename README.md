@@ -133,13 +133,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 	- ![Sprint 3 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/089358a7f3daf450e5eabbefe8a130f0796164bc/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-	- Backlog 3 - Sprint 3 Details ![Backlog 3 - Sprint 3 Details](link) 
-	- Backlog 4 - Final Details ![Backlog 4 - Final Details](link) 
+	- Backlog 3 - Sprint 3 Details ![Backlog 3 - Sprint 3 Details](https://user-images.githubusercontent.com/14205883/172266176-460b6765-8aea-4809-9240-73689fa3e70c.jpg)
+	- Backlog 4 - Final Details ![Backlog 4 - Final Details](https://user-images.githubusercontent.com/14205883/172266221-9705b425-f7b1-48e2-945e-04d0cc1933d0.jpg)
 
 
 - **Oyun durumu**: 
-  ![Screenshot 1](link)
-  ![Screenshot 2](link)
+  ![Screenshot 1](https://user-images.githubusercontent.com/14205883/172266264-7fb812da-9b62-4e54-a857-4826811aebfb.JPG)
 
 - **Sprint review**: 
 	- Alınan kararlar: 
@@ -151,6 +150,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   - Telifsiz içeriklerin kullanımın aslında o kadar da kolay olmadığını ve farklı kaynaklardan edinilen içerikler arasında görsel uyum sağlamanın düşündüğümüzden daha zor olduğunu öğrendik.
 
 -**Diğer Notlar**:
-  - N/A
+  - Sprint son tarihine kadar oyunu repoya atmakta sıkıntı yaşadık ve bu sıkıntı hala devam ediyor, dolayısıyla oyunun tam kodları ve proje dosyasını repoya son ürün teslim tarihine kadar atmayı denemeye devam edeceğiz. 
 
 ---
