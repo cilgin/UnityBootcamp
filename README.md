@@ -7,7 +7,6 @@
 - İbrahim Ünal Doğan: Product Owner & Developer
 - Pelin Çılgın: Scrum Master & Designer
 - Çilem Kırmızıgül: Developer & Designer 
-- Cihat Bakır: Developer
 - Berkay Seyhun: Developer
 
 ---
@@ -38,6 +37,18 @@
 [Miro Backlog Board](https://miro.com/app/board/uXjVO689xFw=/?share_link_id=391876246049)
 
 ---
+
+# Oyun Linkleri
+
+- Play Unity üzerinden oynamak için link: [Buraya tıklayın.](Linki parantez içine yerleştirin)
+- Oyun dosyalarını indirmek için link: [Buraya tıklayın.](https://www.dosyaupload.com/26xny/Highway_of_Souls.zip) 
+- Oyunun kısa bir oynanış videosu için link: [Buraya tıklayın.](Linki parantez içine yerleştirin)
+
+### Oyun Üzerine Ufak Bir Not 
+- Oyunumuz 3D ve bilgisayara yönelik olduğu için bazı dosyalarının büyüklüğü sebebiyle oyun proje dosyasını ne yazık ki tam olarak repoya aktaramadık. Bu sebeple repoYa sadece oyunun kodlarını aktardık.
+- Oyunu oynamak için lütfen yukarıdaki linklere göz atın. Teşekkürler!
+
+--- 
 
 # Sprint 1
 
@@ -130,16 +141,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken sarı item'lar yapılacak işleri (task) gösterirken, yeşil item'lar story'leri temsil etmektedir.
 
 - **Daily scrum**: Daily Scrum toplantılarının hızlı ve kolay erişim için WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum özetleri word olarak biriktirilip bu dosyada paylaşılmaktadır: 
-	- ![Sprint 3 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/089358a7f3daf450e5eabbefe8a130f0796164bc/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
+	- ![Sprint 3 Daily Scrum Chats](https://github.com/cilgin/UnityBootcamp/blob/365a7cd2e760cf995bdda20d00acebf6de14eb9f/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-	- Backlog 3 - Sprint 3 Details ![Backlog 3 - Sprint 3 Details](link) 
-	- Backlog 4 - Final Details ![Backlog 4 - Final Details](link) 
+	- Backlog 3 - Sprint 3 Details ![Backlog 3 - Sprint 3 Details](https://github.com/cilgin/UnityBootcamp/blob/365a7cd2e760cf995bdda20d00acebf6de14eb9f/ProjectManagement/Sprint3Documents/backlog3.jpg) 
+	- Backlog 4 - Final Details ![Backlog 4 - Final Details](https://github.com/cilgin/UnityBootcamp/blob/365a7cd2e760cf995bdda20d00acebf6de14eb9f/ProjectManagement/Sprint3Documents/backlog4.jpg) 
 
 
 - **Oyun durumu**: 
-  ![Screenshot 1](link)
-  ![Screenshot 2](link)
+  ![Screenshot 1](https://github.com/cilgin/UnityBootcamp/blob/365a7cd2e760cf995bdda20d00acebf6de14eb9f/ProjectManagement/Sprint3Documents/ss1.JPG)
 
 - **Sprint review**: 
 	- Alınan kararlar: 
