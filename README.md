@@ -40,9 +40,9 @@
 
 # Oyun Linkleri
 
-- Play Unity üzerinden oynamak için link: [Buraya tıklayın.](Linki parantez içine yerleştirin)
+- Play Unity üzerinden oynamak için link: [Buraya tıklayın.](https://play.unity.com/mg/other/highway-of-souls-1)
 - Oyun dosyalarını indirmek için link: [Buraya tıklayın.](https://www.dosyaupload.com/26xny/Highway_of_Souls.zip) 
-- Oyunun kısa bir oynanış videosu için link: [Buraya tıklayın.](Linki parantez içine yerleştirin)
+- Oyunun kısa bir oynanış videosu için link: [Buraya tıklayın.](https://www.youtube.com/watch?v=u-GX6w54otk)
 
 ### Oyun Üzerine Ufak Bir Not 
 - Oyunumuz 3D ve bilgisayara yönelik olduğu için bazı dosyalarının büyüklüğü sebebiyle oyun proje dosyasını ne yazık ki tam olarak repoya aktaramadık. Bu sebeple repoYa sadece oyunun kodlarını aktardık.
